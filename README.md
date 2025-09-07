@@ -32,12 +32,8 @@ The suite covers three major tasks:
 
 ---
 
-## ⚙️ Setup Instructions  
+## ⚙️ Setup Instructions Automation Task
 
-### 1. Clone Repository  
-```bash
-git clone https://github.com/<your-username>/permission-qa-suite.git
-cd permission-qa-suite
 1. **Node.js (LTS version)**  
    Download and install from [https://nodejs.org](https://nodejs.org).  
    Verify installation:
