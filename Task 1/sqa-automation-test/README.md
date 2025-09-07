@@ -119,4 +119,4 @@ sqa-automation-test/
 ---
 
 ## 👨‍💻 Author
-Senior SQA Engineer Test – **Task 1 Automation**
+Syed Zafran Haider SQA  – **Task 1 Automation**
